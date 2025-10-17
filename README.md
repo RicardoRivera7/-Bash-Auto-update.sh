@@ -3,9 +3,9 @@ A small bash script that checks for any dependencies that need to be installed a
 
 ```
 #!/bin/bash
-# @Author: soggyslapper
+# @Author: RicardoRivera
 # @Date:   2021-05-23 18:15:36
-# @Last Modified by:   soggyslapper
+# @Last Modified by:   RicardoRivera
 # @Last Modified time: 2021-05-23 20:00:06
 #
 #	Auto-update
