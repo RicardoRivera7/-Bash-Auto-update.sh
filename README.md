@@ -1,7 +1,7 @@
-# -Bash-Auto-update.sh
+# Bash-Auto-update.sh
 A small bash script that checks for any dependencies that need to be installed and then installs them if needed
 
-
+```
 <h5>
 #!/bin/bash <br/>
 # @Author: RicardoRivera <br/>
@@ -75,3 +75,4 @@ DEPENDENCIES=" " <br/>
 #Main function that runs script <br/>
 	main $0 <br/>
 </h5>
+```
