@@ -3,17 +3,17 @@ A small bash script that checks for any dependencies that need to be installed a
 
 
 <h5>
-#!/bin/bash
-# @Author: RicardoRivera
-# @Date:   2021-05-23 18:15:36
-# @Last Modified by:   RicardoRivera
-# @Last Modified time: 2021-05-23 20:00:06
-#
-#	Auto-update
-#	===========
-#	This is a short program that checks to 
-#	see if any of your programs are out of date
-#	and updates them if they are
+#!/bin/bash <br/>
+# @Author: RicardoRivera <br/>
+# @Date:   2021-05-23 18:15:36 <br/>
+# @Last Modified by:   RicardoRivera <br/>
+# @Last Modified time: 2021-05-23 20:00:06 <br/>
+# <br/>
+#	Auto-update <br/>
+#	=========== <br/>
+#	This is a short program that checks to  <br/>
+#	see if any of your programs are out of date <br/>
+#	and updates them if they are <br/>
 </h5>
 
 
