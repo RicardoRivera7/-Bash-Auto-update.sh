@@ -1,6 +1,8 @@
 # -Bash-Auto-update.sh
 A small bash script that checks for any dependencies that need to be installed and then installs them if needed
 
+
+<h5>
 #!/bin/bash
 # @Author: RicardoRivera
 # @Date:   2021-05-23 18:15:36
@@ -12,6 +14,7 @@ A small bash script that checks for any dependencies that need to be installed a
 #	This is a short program that checks to 
 #	see if any of your programs are out of date
 #	and updates them if they are
+</h5>
 
 
 # Internal Variables (user should not change), NC = no color
